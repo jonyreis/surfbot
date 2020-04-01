@@ -1,0 +1,29 @@
+.top-header {
+    background-color: #1188EE;
+    color: #fff;
+    height: 30px;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+.top-header p {
+    vertical-align: middle;
+}
+
+nav {
+    background-color: #17222D;
+    
+}
+
+.navbar {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    gap: 10px;
+}
