@@ -1,0 +1,47 @@
+.bg-intro {
+    background: url('../../assets/bg-intro.png') center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    object-fit: fill;
+}
+
+.container-main {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1170px;
+    padding-top: 300px;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+form {
+    display: flex;
+    margin-right: 16px;
+}
+
+form input {
+    border: #fff;
+    border-radius: 8px 0 0 8px;
+    height: 40px;
+    width: 290px;
+    padding: 8px;
+}
+
+form button {
+    background-color: #ee2211;
+    border: #ee2211;
+    border-radius: 0 8px 8px 0;
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    width: 140px;
+    max-height: 40px;
+    cursor: pointer;
+}
