@@ -1,0 +1,13 @@
+.top-header {
+    background-color: #1188EE;
+    color: #fff;
+    height: 30px;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+.top-header p {
+    vertical-align: middle;
+}

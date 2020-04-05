@@ -1,5 +1,6 @@
 import React from 'react'
 
+import TopHeader from './TopHeader/index'
 import logo from '../../assets/logo-surfbot.svg'
 
 import './styles.css'
@@ -7,17 +8,15 @@ import './styles.css'
 function Header() {
     return (
         <header>
-            <div className="top-header">
-                <p className="container">Aula na Praia Mansa de Sexta à Sábado 08:00 as 14:00</p>
-            </div>
+            <TopHeader />
             <nav>
                 <div className="container navbar">
                     <img src={logo} alt="Logo Surfbot" />
                     <ul>
-                        <li>Praia</li>
-                        <li>Aulas</li>
-                        <li>Contato</li>
-                        <li>Matricule-se</li>
+                        <li><a href="##" alt="Link Praia">Praia</a></li>
+                        <li><a href="##" alt="Link Aulas">Aulas</a></li>
+                        <li><a href="###" alt="Link Contato">Contato</a></li>
+                        <li><a href="####" alt="Link Matricula" id="matricule-se" >Matricule-se</a></li>
                     </ul>
                 </div>
             </nav>
