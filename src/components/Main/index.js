@@ -1,5 +1,6 @@
 import React from 'react'
 
+import seta from '../../assets/Vector.svg'
 import './styles.css'
 
 function Main() {
@@ -10,6 +11,7 @@ function Main() {
                 <form action="">
                     <input type="text" placeholder="E-mail" />
                     <button type="submit">Matricule-se</button>
+                    <img src={seta} alt="seta"/>
                 </form>
             </div>
         </main>
