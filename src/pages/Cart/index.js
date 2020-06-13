@@ -1,9 +1,7 @@
 import React from "react";
 
-import Header from "../../components/Header";
-
 function Cart() {
-  return <Header />;
+  return <div />;
 }
 
 export default Cart;

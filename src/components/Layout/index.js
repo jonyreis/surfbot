@@ -8,7 +8,9 @@ function Layout() {
   return (
     <LayoutContainer>
       <img src={fotoLocal} alt="Foto da Escola" />
-      <h1>Aulas em uma das melhores praias do Rio.</h1>
+      <h2>
+        <span>Aulas</span> em uma das melhores praias do <span>Rio</span>.
+      </h2>
     </LayoutContainer>
   );
 }
