@@ -16,4 +16,8 @@ export default createGlobalStyle`
         -webkit-font-smoothing: antialiased;
         font-family: 'Nunito', sans-serif;
     }
+
+    img {
+        max-width: 100%;
+    }
 `;

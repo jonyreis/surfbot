@@ -16,7 +16,7 @@ function Header() {
         </a>
         <ul>
           <li>
-            <a href="##" alt="Link Praia">
+            <a href="#praia" alt="Link Praia">
               Praia
             </a>
           </li>

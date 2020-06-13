@@ -1,7 +1,7 @@
 import React from "react";
 
 import Main from "../../components/Main";
-import Layout from "../../components/Layout";
+import Praia from "../../components/Praia";
 
 import { Container } from "./styles";
 
@@ -9,7 +9,7 @@ function Home() {
   return (
     <Container>
       <Main />
-      <Layout />
+      <Praia />
     </Container>
   );
 }
