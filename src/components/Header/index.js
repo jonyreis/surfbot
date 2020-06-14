@@ -16,22 +16,22 @@ function Header() {
         </a>
         <ul>
           <li>
-            <a href="#praia" alt="Link Praia">
+            <a href="/#praia" alt="Link Praia">
               Praia
             </a>
           </li>
           <li>
-            <a href="##" alt="Link Aulas">
+            <a href="/#aulas" alt="Link Aulas">
               Aulas
             </a>
           </li>
           <li>
-            <a href="###" alt="Link Contato">
+            <a href="/#contato" alt="Link Contato">
               Contato
             </a>
           </li>
           <li>
-            <a href="####" alt="Link Matricula" id="matricule-se">
+            <a href="/cart" alt="Link Matricula" id="matricule-se">
               Matricule-se
             </a>
           </li>
