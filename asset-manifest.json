@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/surfbot/static/js/main.d2fb0b96.chunk.js",
+    "main.js.map": "/surfbot/static/js/main.d2fb0b96.chunk.js.map",
+    "runtime-main.js": "/surfbot/static/js/runtime-main.87784e56.js",
+    "runtime-main.js.map": "/surfbot/static/js/runtime-main.87784e56.js.map",
+    "static/js/2.d73e0dc6.chunk.js": "/surfbot/static/js/2.d73e0dc6.chunk.js",
+    "static/js/2.d73e0dc6.chunk.js.map": "/surfbot/static/js/2.d73e0dc6.chunk.js.map",
+    "index.html": "/surfbot/index.html",
+    "precache-manifest.ac4b2a3cb1ba4d4717d86e0c944a08d8.js": "/surfbot/precache-manifest.ac4b2a3cb1ba4d4717d86e0c944a08d8.js",
+    "service-worker.js": "/surfbot/service-worker.js",
+    "static/js/2.d73e0dc6.chunk.js.LICENSE.txt": "/surfbot/static/js/2.d73e0dc6.chunk.js.LICENSE.txt",
+    "static/media/Vector.svg": "/surfbot/static/media/Vector.6a0876d2.svg",
+    "static/media/bg-intro.png": "/surfbot/static/media/bg-intro.b76c17a3.png",
+    "static/media/bg-onda.png": "/surfbot/static/media/bg-onda.b082689b.png",
+    "static/media/boia.svg": "/surfbot/static/media/boia.253c7599.svg",
+    "static/media/coco.svg": "/surfbot/static/media/coco.ed399be3.svg",
+    "static/media/foto-local.png": "/surfbot/static/media/foto-local.1edc0acc.png",
+    "static/media/foto-mapa.png": "/surfbot/static/media/foto-mapa.83e86579.png",
+    "static/media/logo-surfbot.svg": "/surfbot/static/media/logo-surfbot.0c706441.svg",
+    "static/media/prancha.svg": "/surfbot/static/media/prancha.4950fe71.svg",
+    "static/media/sandalhas.svg": "/surfbot/static/media/sandalhas.b8f41594.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87784e56.js",
+    "static/js/2.d73e0dc6.chunk.js",
+    "static/js/main.d2fb0b96.chunk.js"
+  ]
+}
