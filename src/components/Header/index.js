@@ -11,27 +11,27 @@ function Header() {
         <p>Aula na Praia Mansa de Sexta à Sábado 08:00 as 14:00</p>
       </TopHeader>
       <nav>
-        <a href="/">
+        <a href="/surfbot">
           <img src={logo} alt="Logo Surfbot" />
         </a>
         <ul>
           <li>
-            <a href="/#praia" alt="Link Praia">
+            <a href="/surfbot/#praia" alt="Link Praia">
               Praia
             </a>
           </li>
           <li>
-            <a href="/#aulas" alt="Link Aulas">
+            <a href="/surfbot/#aulas" alt="Link Aulas">
               Aulas
             </a>
           </li>
           <li>
-            <a href="/#contato" alt="Link Contato">
+            <a href="/surfbot/#contato" alt="Link Contato">
               Contato
             </a>
           </li>
           <li>
-            <a href="/cart" alt="Link Matricula" id="matricule-se">
+            <a href="/surfbot/cart" alt="Link Matricula" id="matricule-se">
               Matricule-se
             </a>
           </li>

@@ -7,8 +7,8 @@ import Cart from "./pages/Cart";
 function MainRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/cart" element={<Cart />} />
+      <Route path="/surfbot/" element={<Home />} />
+      <Route path="/surfbot/cart" element={<Cart />} />
     </Routes>
   );
 }
