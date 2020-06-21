@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/surfbot/static/js/main.001ddd87.chunk.js",
-    "main.js.map": "/surfbot/static/js/main.001ddd87.chunk.js.map",
+    "main.js": "/surfbot/static/js/main.63943864.chunk.js",
+    "main.js.map": "/surfbot/static/js/main.63943864.chunk.js.map",
     "runtime-main.js": "/surfbot/static/js/runtime-main.87784e56.js",
     "runtime-main.js.map": "/surfbot/static/js/runtime-main.87784e56.js.map",
     "static/js/2.d73e0dc6.chunk.js": "/surfbot/static/js/2.d73e0dc6.chunk.js",
     "static/js/2.d73e0dc6.chunk.js.map": "/surfbot/static/js/2.d73e0dc6.chunk.js.map",
     "index.html": "/surfbot/index.html",
-    "precache-manifest.dc87c6003e8df130a1068d50d0a7ce13.js": "/surfbot/precache-manifest.dc87c6003e8df130a1068d50d0a7ce13.js",
+    "precache-manifest.0a493bfcad839c58f91317b50ef688bb.js": "/surfbot/precache-manifest.0a493bfcad839c58f91317b50ef688bb.js",
     "service-worker.js": "/surfbot/service-worker.js",
     "static/js/2.d73e0dc6.chunk.js.LICENSE.txt": "/surfbot/static/js/2.d73e0dc6.chunk.js.LICENSE.txt",
     "static/media/Vector.svg": "/surfbot/static/media/Vector.6a0876d2.svg",
@@ -24,6 +24,6 @@
   "entrypoints": [
     "static/js/runtime-main.87784e56.js",
     "static/js/2.d73e0dc6.chunk.js",
-    "static/js/main.001ddd87.chunk.js"
+    "static/js/main.63943864.chunk.js"
   ]
 }
