@@ -32,7 +32,7 @@ function Aulas() {
           </div>
           <div className="valor">
             <span>R$ 49,99 / AULA</span>
-            <a href="/cart" alt="link para o carrinho">
+            <a href="/surfbot/cart" alt="link para o carrinho">
               Matricule-se <img src={seta} alt="seta" />
             </a>
           </div>
@@ -59,7 +59,7 @@ function Aulas() {
           </div>
           <div className="valor">
             <span>R$ 49,99 / AULA</span>
-            <a href="/cart" alt="link para o carrinho">
+            <a href="/surfbot/cart" alt="link para o carrinho">
               Matricule-se <img src={seta} alt="seta" />
             </a>
           </div>
@@ -87,7 +87,7 @@ function Aulas() {
           </div>
           <div className="valor">
             <span>R$ 49,99 / AULA</span>
-            <a href="/cart" alt="link para o carrinho">
+            <a href="/surfbot/cart" alt="link para o carrinho">
               Matricule-se <img src={seta} alt="seta" />
             </a>
           </div>

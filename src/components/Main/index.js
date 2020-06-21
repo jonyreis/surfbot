@@ -10,7 +10,7 @@ function Main() {
       <h1>Escola de Surf</h1>
       <form action="">
         <input type="text" placeholder="E-mail" />
-        <button type="submit">
+        <button type="submit" formaction="/surfbot/cart">
           Matricule-se <img src={seta} alt="seta" />
         </button>
       </form>

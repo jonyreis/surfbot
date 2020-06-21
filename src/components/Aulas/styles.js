@@ -77,7 +77,7 @@ export const AulasContainer = styled.section`
       text-decoration: none;
       text-transform: uppercase;
       padding: 8px 16px;
-      transition: background-color 200ms;
+      transition: 300ms ease-out;
     }
     a:hover {
       background-color: #446677;

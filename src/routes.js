@@ -7,7 +7,7 @@ import Cart from "./pages/Cart";
 function MainRoutes() {
   return (
     <Routes>
-      <Route path="/surfbot/" element={<Home />} />
+      <Route path="/surfbot" element={<Home />} />
       <Route path="/surfbot/cart" element={<Cart />} />
     </Routes>
   );
