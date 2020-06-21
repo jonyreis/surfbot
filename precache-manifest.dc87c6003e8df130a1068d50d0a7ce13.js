@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c9db063b3d16f943a62937eaf4eb0fc",
+    "revision": "41bf33aeebf44c1b6ae721f37ee19f70",
     "url": "/surfbot/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surfbot/static/js/2.d73e0dc6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aaf877af855f094b2ccf",
-    "url": "/surfbot/static/js/main.d2fb0b96.chunk.js"
+    "revision": "5fe931cbb8816cb89e1a",
+    "url": "/surfbot/static/js/main.001ddd87.chunk.js"
   },
   {
     "revision": "69cad23e7ef42eaf590b",
